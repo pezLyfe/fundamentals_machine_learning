@@ -12,4 +12,5 @@
 *.npy
 *.zip
 *.log
+*.gz
 
